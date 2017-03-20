@@ -331,7 +331,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
       we consider jointly learning the goal-driven reinforcement learning problem with auxiliary depth prediction and loop closure classification tasks. This approach can learn to navigate from raw sensory input in complicated 3D mazes, approaching human-level performance even under conditions where the goal location changes frequently.
   * [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://sites.google.com/view/ex2exploration) improve based on vime. 
   * [VIME: Variational Information Maximizing Exploration](https://github.com/openai/vime) 
-  * [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/miyosuda/unreal) https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/
+  * [Reinforcement learning with unsupervised auxiliary tasks](https://github.com/miyosuda/unreal) blog : https://deepmind.com/blog/reinforcement-learning-unsupervised-auxiliary-tasks/
   
 ## Multi-Agent
   * [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016. source code : https://github.com/iassael/learning-to-communicate
