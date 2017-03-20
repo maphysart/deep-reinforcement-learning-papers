@@ -329,6 +329,7 @@ Model Predictive Control](http://deepmpc.cs.cornell.edu/DeepMPC.pdf), I. Lenz, e
   * [Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models](http://arxiv.org/abs/1507.00814), B. C. Stadie et al., *arXiv*, 2015.
   * [Learning to Navigate in Complex Environments](https://arxiv.org/abs/1611.03673) 
       we consider jointly learning the goal-driven reinforcement learning problem with auxiliary depth prediction and loop closure classification tasks. This approach can learn to navigate from raw sensory input in complicated 3D mazes, approaching human-level performance even under conditions where the goal location changes frequently.
+  * [EX2: Exploration with Exemplar Models for Deep Reinforcement Learning](https://sites.google.com/view/ex2exploration) improve based on vime. 
 
 ## Multi-Agent
   * [Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks](http://arxiv.org/abs/1602.02672), J. N. Foerster et al., *arXiv*, 2016. source code : https://github.com/iassael/learning-to-communicate
